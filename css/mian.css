@@ -1,0 +1,21 @@
+ div {
+text-align: center;
+
+h1{
+    color: black;
+    font-size: 80px;
+    font-weight: 900;
+}
+p{
+    font-size: 35px;
+}
+#btn{
+    border: 1px black solid;
+    color: white;
+    background-color: blue;
+    padding: 30px 90px;
+}
+#btn:hover{
+    background-color: green;
+}
+}
